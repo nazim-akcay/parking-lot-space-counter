@@ -1,0 +1,17 @@
+opencv-python==4.6.0.66
+pip install opencv-python==4.6.0.66
+
+scikit-learn==1.1.3
+pip install scikit-learn==1.1.3
+
+pandas==1.5.1
+pip install pandas==1.5.1
+
+Pillow==9.3.0
+pip install pillow==9.3.0
+
+scikit-image==0.17.2
+pip install scikit-image==0.17.2
+
+matplotlib==3.6.2
+pip install matplotlib==3.6.2
